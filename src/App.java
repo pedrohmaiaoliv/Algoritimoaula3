@@ -59,8 +59,8 @@ public class App {
 
     double raio = 2;
     double pi = 3.14;
-    double area = 3.14 * raio * raio;
-    System.out.printf("A area é %f", area);
+    double area = pi * raio * raio;
+    System.out.println("A area é %f", area);
 }
 
 

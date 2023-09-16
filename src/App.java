@@ -52,6 +52,15 @@ public class App {
         System.out.println("Boleano: " + logico);
 
         System.out.printf("%s\n", logico);
+
+
+
+    // Area de uma Circunferência
+
+    double raio = 2;
+    double pi = 3.14;
+    double area = 3.14 * raio * raio;
+    System.out.printf("A area é %f", area);
 }
 
 

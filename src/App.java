@@ -1,4 +1,4 @@
-// Aula 3 do Professor Fausto - Faculdade Nova Roma; Tipos de dados - INTEIROS, REAIS, CARACTERES E BOOLEANOS
+// Aula 3 do Professor Fausto - Faculdade Nova Roma; Tipos de dados - INTEIROS, REAIS, CARACTERES E LÓGICO
 
 public class App {
     public static void main(String[] args) {
